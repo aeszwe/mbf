@@ -46,7 +46,7 @@ def logo():
    | |\/| |  _ \| |_   MultiBrutuForceV3.0
    | |  | | |_) |  _|     --------------
    |_|  |_|____/|_|           (V.3.0)
--=[ Create By {anjar} ]=-""")
+-=[ Create By {yeahh} ]=-""")
 class about:
 	def __init__(self,url):
 		self.url=url
