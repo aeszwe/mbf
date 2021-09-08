@@ -1,8 +1,8 @@
-# rekod mulu anying
-# update Selasa 24 mei 2021
-# coded by WansGansXpL
-# maaf bro jika codingan nya berantakan, males nge rapiin nya:v
-# fb me : https://m.facebook.com/wans.xgans.94
+# up
+# up
+# up
+# up
+# up
 import os,sys,re,json,random
 from time import sleep as waktu
 from shutil import rmtree as hapus
@@ -37,16 +37,16 @@ def hasil(ngocok,ismylife):
 		exit()
 	else:exit("\n\n\x1b[1;31m[!] Tidak Mendapatkan Hasil:(")
 # mohon untuk tidak merubah nama pembuatnya:)
-yeahh=random.choice(["WansGansXpL","Si WansGanteng"])
+yeahh=random.choice(["mengoke njar","gg lu njar"])
 def logo():
 	os.system("clear")
 	print(f"""       
 __        ____  __ ____  _____
 \ \      / /  \/  | __ )|  ___|   --------------
- \ \ /\ / /| |\/| |  _ \| |_   WansMultiBruteForce
+ \ \ /\ / /| |\/| |  _ \| |_   MultiBrutuForceV3.0
   \ V  V / | |  | | |_) |  _|     --------------
-   \_/\_/  |_|  |_|____/|_|           (V.3.1)
--=[ Create By {yeahh} ]=-""")
+   \_/\_/  |_|  |_|____/|_|           (V.3.0)
+-=[ Create By {anjar} ]=-""")
 class about:
 	def __init__(self,url):
 		self.url=url
@@ -84,14 +84,14 @@ class about:
 			print("+"+"~"*40+"+")
 	def tentang_sc(self):
 		print("""
-[*] Author : WansGansXpL
-[*] Github : https://github.com/wansgang980
-[*] Facebook : https://m.facebook.com/wans.xgans.94
-[*] WhatsApp : +6283135994301
-[*] Script Name : WMBF
-[*] Version : 1.1
+[*] Author : anonimbanget
+[*] Github : https://github.com/Zugendro
+[*] Facebook : https://m.facebook.com/null404unknown
+[*] WhatsApp : 085210259528
+[*] Script Name : Brutu
+[*] Version : 3.0
 
-[!] Jika Menemukan Bug Atau Error Di Script Silahkan Update/Laporkan Ke WhatsApp/Facebook Saya:)
+[!] Jika Menemukan Bug Atau Error Di Script Silahkan Buang
 """)
 		input("[*] Enter Untuk Kembali Ke Menu > ")
 class ngentod:
@@ -803,6 +803,6 @@ if __name__=="__main__":
 
 
 """
-Create By Wans Ganteng
-GITHUB : https://github.com/wansgang980
+Create By Zugendro
+GITHUB : https://github.com/Zugendro
 """
