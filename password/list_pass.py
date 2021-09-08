@@ -2,7 +2,7 @@
 # Jika Ingin Mengubah pw_tambahan Harap Gunakan Pemisah Menggunakan |
 pw_tambahan="""
 
-bismillah|sayang|bangsat|anjing|kontol|freefire|freefire123|freefire12345|freefire1234|MobileLegends|Facebook|Memek123|Alok123|Bocil123|Bagong|Asu123|Fuckyou|Sandi123|Kagura|Alucard|Miya123|Sendok|Baskom|Piring|Indonesia|Rahasia|Kampret|Jamban|Parjamban|anjink|Merdeka|Bangkit
+bismillah|indonesia|merdeka|nusantara|rahasia|katasandi|sayang|freefire|garena|cantik|bintang|montoon|freefire123|freefire12345|gamers|gaming|anjing|123456|qwerty123|qwertyuiop
 
 """.strip().split("|")
 ngntd=((())>(()))+((())>(()))
