@@ -749,14 +749,12 @@ class asup:
 				waktu(1)
 				print("[!] Mohon Tunggu Sebentar Ngentod:v")
 				open("lo_ngentod/cookie","w").write(self.cok)
-				from kentod import wans_gans,informasi
+				from kentod import informasi
 				if "Laporkan Masalah" in cek:
-					mengontol=wans_gans.ganteng(zxss(self.cok),self.url)
 					informasi.info(zxss(self.cok),cek).myinfo()
 					mengontol.reaksi()
 					exit("[✓] Login Berhasil, Jalankan Ulang Tools Nya")
 				else:
-					mengontol=wans_gans.ganteng(zxss(self.cok),self.url)
 					mengontol.lang(zxss(self.cok))
 					informasi.info(zxss(self.cok),cek).myinfo()
 					mengontol.reaksi()
