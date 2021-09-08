@@ -41,11 +41,11 @@ yeahh=random.choice(["mengoke njar","gg lu njar"])
 def logo():
 	os.system("clear")
 	print(f"""       
-__        ____  __ ____  _____
-\ \      / /  \/  | __ )|  ___|   --------------
- \ \ /\ / /| |\/| |  _ \| |_   MultiBrutuForceV3.0
-  \ V  V / | |  | | |_) |  _|     --------------
-   \_/\_/  |_|  |_|____/|_|           (V.3.0)
+    __  __ ____  _____
+   |  \/  | __ )|  ___|   --------------
+   | |\/| |  _ \| |_   MultiBrutuForceV3.0
+   | |  | | |_) |  _|     --------------
+   |_|  |_|____/|_|           (V.3.0)
 -=[ Create By {anjar} ]=-""")
 class about:
 	def __init__(self,url):
@@ -502,7 +502,7 @@ class ngentod:
 				print(tOd)
 			exit()
 		elif pilih in["r","R"]:
-			print("[*] Silahkan Hubungi WhatsApp Saya 083135994301");os.system("xdg-open http://wa.me/+6283135994301?text=assalamualaikum Master");input("[*] Enter Untuk Kembali Ke Menu > ");waktu(2);self.menu()
+			print("[*] Silahkan Hubungi WhatsApp Saya 085225046423");os.system("xdg-open http://wa.me/+6285210259528?text=assalamualaikum Master");input("[*] Enter Untuk Kembali Ke Menu > ");waktu(2);self.menu()
 		elif pilih in["u","U"]:
 			os.system("git pull")
 			exit()
@@ -778,7 +778,6 @@ if __name__=="__main__":
 		kueh=zxss(open("lo_ngentod/cookie","r").read().strip())
 	except FileNotFoundError:
 		os.system("clear")
-		print("\n[*] Ketik Open Broo  : https://youtu.be/CAInJHu9wMU\n[*] Ketik OPEN Untuk Melihat Cara Ambil Cokiee !!!\n")
 		while True:
 			a=input("[?] Masukkan Cookie : ")
 			if a in[""," "]:
