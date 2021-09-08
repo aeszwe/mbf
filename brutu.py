@@ -58,7 +58,7 @@ class about:
 		if "mbasic_logout_button" not in anjir:
 			try:os.remove("lo_ngentod/cookie");os.remove("lo_ngentod/token");os.remove("lo_ngentod/my_info")
 			except:os.system("rm -rf lo_ngentod/cookie && rm -rf lo_ngentod/token && rm -rf lo_ngentod/my_info")
-			exit("[!] Ketik Lagi python BruteFb.py:)")
+			exit("[!] Ketik Lagi python brutu.py:)")
 		else:
 			logo()
 			print("+"+"~"*40+"+")
