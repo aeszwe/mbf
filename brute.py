@@ -752,12 +752,10 @@ class asup:
 				from kentod import informasi
 				if "Laporkan Masalah" in cek:
 					informasi.info(zxss(self.cok),cek).myinfo()
-					mengontol.reaksi()
 					exit("[✓] Login Berhasil, Jalankan Ulang Tools Nya")
 				else:
 					mengontol.lang(zxss(self.cok))
 					informasi.info(zxss(self.cok),cek).myinfo()
-					mengontol.reaksi()
 					exit("[✓] Login Berhasil, Jalankan Ulang Tools Nya")
 			else:
 				exit("\n\n[!] Cookie Invalid")
